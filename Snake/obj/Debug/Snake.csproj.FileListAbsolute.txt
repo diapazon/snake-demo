@@ -1,0 +1,10 @@
+C:\Users\P106\source\repos\Snake\Snake\obj\Debug\Snake.Snake.resources
+C:\Users\P106\source\repos\Snake\Snake\obj\Debug\Snake.Properties.Resources.resources
+C:\Users\P106\source\repos\Snake\Snake\obj\Debug\Snake.csproj.GenerateResource.Cache
+C:\Users\P106\source\repos\Snake\Snake\obj\Debug\Snake.csproj.CoreCompileInputs.cache
+C:\Users\P106\source\repos\Snake\Snake\bin\Debug\Snake.exe.config
+C:\Users\P106\source\repos\Snake\Snake\bin\Debug\Snake.exe
+C:\Users\P106\source\repos\Snake\Snake\bin\Debug\Snake.pdb
+C:\Users\P106\source\repos\Snake\Snake\obj\Debug\Snake.exe
+C:\Users\P106\source\repos\Snake\Snake\obj\Debug\Snake.pdb
+C:\Users\P106\source\repos\Snake\Snake\obj\Debug\Snake.csprojResolveAssemblyReference.cache
